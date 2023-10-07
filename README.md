@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @laithfayez25
+- 👋 Hi, I’m @Leo4q
 - 👀 I’m interested in AI and cars .
-- 🌱 I’m currently learning data science .
-- 📫 How to reach me ==>
-- ig==@vi0jo
+- 🌱 I’m currently learning data science & AI .
+- 📫 How to reach me ==> IG => laithfyz
